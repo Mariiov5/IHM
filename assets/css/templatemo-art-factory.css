@@ -1139,8 +1139,17 @@ accordions
   }
 }
 
+.centerAccordions{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+
 .accordions {
   background-color: #f7f7f7;
+  width: 100%;
+  justify-content: center;
 }
 .accordion-head {
   padding: 20px;
